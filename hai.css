@@ -45,5 +45,8 @@ p { color: blue;
 }
 button{
         cursor: pointer;
+    img{ 
+        width:300px;
+        height: 100px;
 }
 .
