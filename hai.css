@@ -1,0 +1,49 @@
+.abc{
+    color: brown;
+    font-size: 56px;
+    background-color: rgb(237, 199, 142);
+    text-align: center
+
+}
+p { color: blue;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.mm{  
+    display: flex;
+    gap:30px;
+    color: rgb(3, 3, 67);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    
+}
+.nav{
+    background-color: beige;
+    display: flex;
+    justify-content:space-evenly;
+}
+#n1{
+    background-color:none;
+    color:black;
+    border-radius: 20px;
+    width:100px;
+    height: 50px;
+}
+#n2 {
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    }
+#n1:hover{
+            background-color: rgb(122, 238, 199);
+}
+#n2:hover{
+           background-color: white;
+           color: black;
+}
+button{
+        cursor: pointer;
+}
+.

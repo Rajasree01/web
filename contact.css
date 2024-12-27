@@ -1,0 +1,56 @@
+.nav{
+    background-color: beige;
+    display: flex;
+    justify-content:space-evenly;
+}
+.mm{  
+    display: flex;
+    gap:30px;
+    color: rgb(3, 3, 67);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    
+}
+h1{   
+    position: relative;
+    left: 100px;
+    font-size:xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+}
+.io{  
+
+    background-color: rgb(232, 232, 134);
+    color: rgb(29, 29, 73);
+    width: 1300px;
+}
+label{
+    
+      display:list-item;
+      position: relative;
+      width: 300px;
+      height:  30px;
+     
+     
+       font-size:larger;
+       font-family: fantasy;
+       color: rgb(33, 33, 79);
+    
+    }
+    textarea{
+              position: relative;left: 600px;
+              bottom: 70px;
+             width: 500px;
+             height: 100px;
+
+    }
+    .ut{ 
+         position: relative;
+         top: 50px;
+        
+    }
+
+       
+        
+
+
